@@ -1,4 +1,10 @@
 Support data for I2C module
 
 Functions
-1.
+1. 2 линии SDA и SCL.
+   SDA - линия данных
+
+   SCL - линия тактирования
+      Генерирует только мастер
+      
+   
